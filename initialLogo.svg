@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="initialLogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="298.5"
+     inkscape:cy="307.5"
+     inkscape:window-width="1312"
+     inkscape:window-height="1003"
+     inkscape:window-x="108"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient76111"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop76109" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient76105"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop76103" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient76099"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop76097" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75240"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#17c8af;stop-opacity:0.99215686;"
+         offset="0"
+         id="stop75238" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75041"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop75039" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient74973"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop74971" />
+    </linearGradient>
+    <rect
+       x="81.99015"
+       y="159.50811"
+       width="339.88644"
+       height="424.85805"
+       id="rect2277" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Color Blindness"
+       id="filter34147">
+      <feColorMatrix
+         values="0.95 0.05 0 0 0 0.2583 0.4333 0.5667 0 0 0 0.475 0.525 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         id="feColorMatrix34145" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix34189" />
+      <feColorMatrix
+         id="feColorMatrix34191"
+         values="0.566 0.43333 0 0 0 0.55833 0.4416 0 0 0 0 0.24167 0.75833 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix35419" />
+      <feColorMatrix
+         id="feColorMatrix35421"
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Color Blindness"
+       id="filter38489">
+      <feColorMatrix
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         id="feColorMatrix38487" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Color Blindness"
+       id="filter38493">
+      <feColorMatrix
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         id="feColorMatrix38491" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient75041"
+       id="linearGradient75043"
+       x1="74.094048"
+       y1="139.58973"
+       x2="78.955354"
+       y2="139.58973"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(26.69805,0,0,26.69805,-1958.3335,-3634.0145)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient76099"
+       id="linearGradient76356"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(26.698053,0,0,26.698051,-1973.664,-3605.7873)"
+       x1="74.800953"
+       y1="138.47317"
+       x2="79.445088"
+       y2="138.47317" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient76105"
+       id="linearGradient76360"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(26.69805,0,0,26.69805,-1958.3335,-3634.0145)"
+       x1="75.502172"
+       y1="138.8878"
+       x2="77.326345"
+       y2="138.8878" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient76111"
+       id="linearGradient76364"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(26.69805,0,0,26.69805,-1958.3335,-3634.0145)"
+       x1="75.511431"
+       y1="139.88387"
+       x2="78.511238"
+       y2="139.88387" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:280.276px;line-height:1.25;font-family:sans-serif;opacity:0.740385;fill:#4aff00;fill-opacity:1;stroke:url(#linearGradient76356);stroke-width:0.934433;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round;paint-order:stroke markers fill"
+       x="9.0061092"
+       y="167.67741"
+       id="text32855"
+       transform="scale(0.99223251,1.0078283)"
+       inkscape:export-filename="/Users/renecapella/design/logos/300x396.png"
+       inkscape:export-xdpi="1167.8151"
+       inkscape:export-ydpi="1167.8151"><tspan
+         sodipodi:role="line"
+         id="tspan32853"
+         style="fill:#4aff00;fill-opacity:1;stroke:url(#linearGradient76356);stroke-width:0.934433;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round;paint-order:stroke markers fill"
+         x="9.0061092"
+         y="167.67741">c</tspan></text>
+    <g
+       aria-label="c"
+       id="text17942"
+       style="font-size:10.4198px;line-height:1.25;fill:#e6e6e6;fill-opacity:0.779116;stroke-width:0.260494" />
+    <path
+       id="rect21278"
+       style="opacity:0.791667;fill:#00afff;fill-opacity:0.778226;stroke:url(#linearGradient75043);stroke-width:0.934;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stroke-linecap:round;paint-order:stroke markers fill"
+       d="m 97.640409,11.343357 c -18.864944,0 -34.641351,5.069265 -47.322342,15.222427 V 12.946897 H 23.193994 V 91.7646 174.1748 h 27.124073 v -16.5833 c 0,-100.67588 3.8e-5,-24.92121 3.8e-5,-54.00368 V 79.69339 c 1.44676,-13.17021 5.397479,-23.55521 11.865082,-31.156163 8.421744,-9.881978 19.878359,-14.832851 34.367316,-14.832851 7.878367,0 15.944897,1.655229 24.185437,4.948965 8.33121,3.294875 16.38384,8.005172 24.17169,14.134461 h 1.35194 V 24.09966 c -6.97282,-3.568154 -14.65999,-6.590139 -23.08172,-9.061204 -8.33113,-2.466883 -16.84407,-3.694339 -25.537498,-3.694339 z"
+       sodipodi:nodetypes="cccccccssccsccccccc"
+       inkscape:export-filename="/Users/renecapella/design/logos/300x396.png"
+       inkscape:export-xdpi="1167.8151"
+       inkscape:export-ydpi="1167.8151" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:28.2554px;line-height:1.25;font-family:sans-serif;fill:#00aeff;fill-opacity:0.619608;stroke:url(#linearGradient76360);stroke-width:0.800942;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill;stroke-linejoin:round;stroke-linecap:round"
+       x="55.964825"
+       y="85.401184"
+       id="text48161"
+       inkscape:export-filename="/Users/renecapella/design/logos/300x396.png"
+       inkscape:export-xdpi="1167.8151"
+       inkscape:export-ydpi="1167.8151"><tspan
+         sodipodi:role="line"
+         id="tspan48159"
+         style="font-size:28.2554px;fill:#00aeff;fill-opacity:0.619608;stroke:url(#linearGradient76360);stroke-width:0.800942;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill;stroke-linejoin:round;stroke-linecap:round"
+         x="55.964825"
+         y="85.401184">ené</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:28.2554px;line-height:1.25;font-family:sans-serif;fill:#4aff00;fill-opacity:0.741176;stroke:url(#linearGradient76364);stroke-width:0.800942;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round;paint-order:stroke markers fill"
+       x="56.239574"
+       y="108.50378"
+       id="text48693"
+       inkscape:export-filename="/Users/renecapella/design/logos/300x396.png"
+       inkscape:export-xdpi="1167.8151"
+       inkscape:export-ydpi="1167.8151"><tspan
+         sodipodi:role="line"
+         id="tspan48691"
+         style="font-size:28.2554px;fill:#4aff00;fill-opacity:0.741176;stroke:url(#linearGradient76364);stroke-width:0.800942;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round;paint-order:stroke markers fill"
+         x="56.239574"
+         y="108.50378">apella</tspan></text>
+  </g>
+</svg>

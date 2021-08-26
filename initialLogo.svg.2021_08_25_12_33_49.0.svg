@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="initialLogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="298.5"
+     inkscape:cy="307.5"
+     inkscape:window-width="1312"
+     inkscape:window-height="1003"
+     inkscape:window-x="108"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient76111"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop76109" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient76105"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop76103" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient76099"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop76097" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75240"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#17c8af;stop-opacity:0.99215686;"
+         offset="0"
+         id="stop75238" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75041"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop75039" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient74973"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop74971" />
+    </linearGradient>
+    <rect
+       x="81.99015"
+       y="159.50811"
+       width="339.88644"
+       height="424.85805"
+       id="rect2277" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Color Blindness"
+       id="filter34147">
+      <feColorMatrix
+         values="0.95 0.05 0 0 0 0.2583 0.4333 0.5667 0 0 0 0.475 0.525 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         id="feColorMatrix34145" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix34189" />
+      <feColorMatrix
+         id="feColorMatrix34191"
+         values="0.566 0.43333 0 0 0 0.55833 0.4416 0 0 0 0 0.24167 0.75833 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix35419" />
+      <feColorMatrix
+         id="feColorMatrix35421"
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Color Blindness"
+       id="filter38489">
+      <feColorMatrix
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         id="feColorMatrix38487" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Color Blindness"
+       id="filter38493">
+      <feColorMatrix
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         id="feColorMatrix38491" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient75041"
+       id="linearGradient75043"
+       x1="74.094048"
+       y1="139.58973"
+       x2="78.955354"
+       y2="139.58973"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(8.5640676,0,0,7.3826836,-601.53524,-975.88828)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient76099"
+       id="linearGradient77484"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(7.9514661,0,0,7.9514661,-562.87858,-1042.9091)"
+       x1="74.800953"
+       y1="138.47317"
+       x2="79.445088"
+       y2="138.47317" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient76105"
+       id="linearGradient77488"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(7.9514657,0,0,7.9514658,-558.50643,-1051.0734)"
+       x1="75.502172"
+       y1="138.8878"
+       x2="77.326345"
+       y2="138.8878" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient76111"
+       id="linearGradient77492"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(7.9514657,0,0,7.9514658,-558.50643,-1051.0734)"
+       x1="75.511431"
+       y1="139.88387"
+       x2="78.511238"
+       y2="139.88387" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient76111"
+       id="linearGradient77682"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(21.417995,0,0,21.417996,-1507.8247,-2861.7811)"
+       x1="75.511431"
+       y1="139.88387"
+       x2="78.511238"
+       y2="139.88387" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient76105"
+       id="linearGradient77686"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(21.417995,0,0,21.417996,-1507.8247,-2861.7811)"
+       x1="75.502172"
+       y1="138.8878"
+       x2="77.326345"
+       y2="138.8878" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient76099"
+       id="linearGradient77690"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(21.417996,0,0,21.417996,-1519.6284,-2839.552)"
+       x1="74.800953"
+       y1="138.47317"
+       x2="79.445088"
+       y2="138.47317" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:83.4744px;line-height:1.25;font-family:sans-serif;opacity:0.740385;fill:#4de8a5;fill-opacity:0.979757;stroke:url(#linearGradient77484);stroke-width:0.2783;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="27.618948"
+       y="80.939774"
+       id="text32855"
+       transform="scale(1.0686768,0.93573661)"
+       inkscape:export-filename="/Users/renecapella/design/logos/500x570.png"
+       inkscape:export-xdpi="88.338806"
+       inkscape:export-ydpi="88.338806"><tspan
+         sodipodi:role="line"
+         id="tspan32853"
+         style="fill:#4de8a5;fill-opacity:0.979757;stroke:url(#linearGradient77484);stroke-width:0.2783;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         x="27.618948"
+         y="80.939774">c</tspan></text>
+    <g
+       aria-label="c"
+       id="text17942"
+       style="font-size:10.4198px;line-height:1.25;fill:#e6e6e6;fill-opacity:0.779116;stroke-width:0.260494" />
+    <path
+       id="rect21278"
+       style="opacity:0.791667;fill:#00afff;fill-opacity:0.615385;stroke:url(#linearGradient75043);stroke-width:0.278173;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 57.969839,32.145029 c -6.051403,0 -11.112081,1.401779 -15.179827,4.209384 V 32.588448 H 34.089287 V 54.383529 77.17203 h 8.700725 v -4.5857 c 0,-27.839422 1.2e-5,-6.89135 1.2e-5,-14.933382 v -6.607413 c 0.464085,-3.641895 1.731377,-6.513609 3.806023,-8.615464 2.701485,-2.732616 6.376481,-4.101657 11.024178,-4.101657 2.527182,0 5.114722,0.457713 7.758082,1.368514 2.67245,0.911116 5.25553,2.213631 7.75367,3.908534 h 0.43368 v -7.932994 c -2.23671,-0.986685 -4.70256,-1.82234 -7.40405,-2.505651 -2.67241,-0.682156 -5.40315,-1.021578 -8.191787,-1.021578 z"
+       sodipodi:nodetypes="cccccccssccsccccccc"
+       inkscape:export-filename="/Users/renecapella/design/logos/500x570.png"
+       inkscape:export-xdpi="88.338806"
+       inkscape:export-ydpi="88.338806" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.4153px;line-height:1.25;font-family:sans-serif;fill:#00aeff;fill-opacity:0.619608;stroke:url(#linearGradient77488);stroke-width:0.238544;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="41.410942"
+       y="56.678173"
+       id="text48161"
+       inkscape:export-filename="/Users/renecapella/design/logos/500x570.png"
+       inkscape:export-xdpi="88.338806"
+       inkscape:export-ydpi="88.338806"
+       transform="scale(1.0770427,0.92846829)"><tspan
+         sodipodi:role="line"
+         id="tspan48159"
+         style="font-size:8.4153px;fill:#00aeff;fill-opacity:0.619608;stroke:url(#linearGradient77488);stroke-width:0.238544;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         x="41.410942"
+         y="56.678173">ené</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.4153px;line-height:1.25;font-family:sans-serif;fill:#4de8a5;fill-opacity:0.979757;stroke:url(#linearGradient77492);stroke-width:0.238544;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="41.492767"
+       y="63.558804"
+       id="text48693"
+       inkscape:export-filename="/Users/renecapella/design/logos/500x570.png"
+       inkscape:export-xdpi="88.338806"
+       inkscape:export-ydpi="88.338806"
+       transform="scale(1.0770427,0.92846829)"><tspan
+         sodipodi:role="line"
+         id="tspan48691"
+         style="font-size:8.4153px;fill:#4de8a5;fill-opacity:0.979757;stroke:url(#linearGradient77492);stroke-width:0.238544;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         x="41.492767"
+         y="63.558804">apella</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:100.259px;line-height:1.25;font-family:sans-serif;opacity:0.740385;fill:#4de8a5;fill-opacity:0.979757;stroke:none;stroke-width:0.334259;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="101.66567"
+       y="83.325523"
+       id="text32855-2"
+       transform="scale(1.0686768,0.93573661)"
+       inkscape:export-filename="/Users/renecapella/design/logos/favicon.ico"
+       inkscape:export-xdpi="119.4359"
+       inkscape:export-ydpi="119.4359"><tspan
+         sodipodi:role="line"
+         id="tspan32853-6"
+         style="fill:#4de8a5;fill-opacity:0.979757;stroke:none;stroke-width:0.334259;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         x="101.66567"
+         y="83.325523">c</tspan></text>
+    <path
+       id="rect21278-5"
+       style="opacity:0.791667;fill:#00afff;fill-opacity:0.615385;stroke:none;stroke-width:0.334106;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 142.82322,25.612006 c -7.26817,0 -13.34642,1.683639 -18.23209,5.055779 v -4.5232 h -10.4502 v 26.177492 27.37067 h 10.4502 v -5.50777 c 0,-33.43719 10e-6,-8.27702 10e-6,-17.93609 v -7.93598 c 0.55741,-4.37419 2.07952,-7.82333 4.57133,-10.34781 3.24467,-3.28207 7.65861,-4.926392 13.24085,-4.926392 3.03533,0 6.14315,0.549748 9.31802,1.643682 3.20981,1.09432 6.31228,2.65874 9.31272,4.69444 h 0.52089 v -9.528108 c -2.68645,-1.185081 -5.64812,-2.188764 -8.89281,-3.009471 -3.20976,-0.819319 -6.48958,-1.22699 -9.83894,-1.22699 z"
+       sodipodi:nodetypes="cccccccssccsccccccc"
+       inkscape:export-filename="/Users/renecapella/design/logos/favicon.ico"
+       inkscape:export-xdpi="119.4359"
+       inkscape:export-ydpi="119.4359" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.1074px;line-height:1.25;font-family:sans-serif;fill:#00aeff;fill-opacity:0.619608;stroke:none;stroke-width:0.286509;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="117.69884"
+       y="54.076832"
+       id="text48161-4"
+       inkscape:export-filename="/Users/renecapella/design/logos/nostroke500x570.png"
+       inkscape:export-xdpi="119.4359"
+       inkscape:export-ydpi="119.4359"
+       transform="scale(1.0770427,0.92846829)"><tspan
+         sodipodi:role="line"
+         id="tspan48159-9"
+         style="font-size:10.1074px;fill:#00aeff;fill-opacity:0.619608;stroke:none;stroke-width:0.286509;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         x="117.69884"
+         y="54.076832">ené</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.1074px;line-height:1.25;font-family:sans-serif;fill:#4de8a5;fill-opacity:0.979757;stroke:none;stroke-width:0.286509;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="117.79712"
+       y="62.340969"
+       id="text48693-3"
+       inkscape:export-filename="/Users/renecapella/design/logos/nostroke500x570.png"
+       inkscape:export-xdpi="119.4359"
+       inkscape:export-ydpi="119.4359"
+       transform="scale(1.0770427,0.92846829)"><tspan
+         sodipodi:role="line"
+         id="tspan48691-8"
+         style="font-size:10.1074px;fill:#4de8a5;fill-opacity:0.979757;stroke:none;stroke-width:0.286509;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         x="117.79712"
+         y="62.340969">apella</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:224.846px;line-height:1.25;font-family:sans-serif;opacity:0.740385;fill:#cccccc;fill-opacity:0.979757;stroke:none;stroke-width:0.749626;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="-0.62035865"
+       y="231.46381"
+       id="text32855-2-7"
+       transform="scale(1.0686768,0.93573661)"
+       inkscape:export-filename="/Users/renecapella/design/logos/nostrokegrayscale500x570.png"
+       inkscape:export-xdpi="119.4359"
+       inkscape:export-ydpi="119.4359"><tspan
+         sodipodi:role="line"
+         id="tspan32853-6-2"
+         style="fill:#cccccc;fill-opacity:0.979757;stroke:none;stroke-width:0.749626;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         x="-0.62035865"
+         y="231.46381">c</tspan></text>
+    <path
+       id="rect21278-5-4"
+       style="opacity:0.791667;fill:#4d4d4d;fill-opacity:0.615385;stroke:none;stroke-width:0.749284;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 75.98075,99.166707 c -16.29999,0 -29.93139,3.775823 -40.88825,11.338353 V 100.3611 H 11.656323 v 58.70702 61.3829 H 35.0925 v -12.352 c 0,-74.98801 3e-5,-18.56248 3e-5,-40.22442 v -17.79766 c 1.25007,-9.80978 4.66363,-17.545 10.25189,-23.20654 7.27668,-7.36055 17.17562,-11.04818 29.69463,-11.04818 6.80719,0 13.77696,1.23289 20.89709,3.68621 7.19849,2.45418 14.15625,5.96262 20.88521,10.52799 h 1.16816 v -21.36824 c -6.02478,-2.65772 -12.66677,-4.90863 -19.94348,-6.74919 -7.19838,-1.83745 -14.55388,-2.751717 -22.06533,-2.751717 z"
+       sodipodi:nodetypes="cccccccssccsccccccc"
+       inkscape:export-filename="/Users/renecapella/design/logos/nostrokegrayscale500x570.png"
+       inkscape:export-xdpi="119.4359"
+       inkscape:export-ydpi="119.4359" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.6674px;line-height:1.25;font-family:sans-serif;fill:#4c4c4c;fill-opacity:0.48627451;stroke:none;stroke-width:0.64254;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="37.112289"
+       y="166.21826"
+       id="text48161-4-8"
+       inkscape:export-filename="/Users/renecapella/design/logos/nostrokegrayscale500x570.png"
+       inkscape:export-xdpi="119.4359"
+       inkscape:export-ydpi="119.4359"
+       transform="scale(1.0770427,0.92846829)"><tspan
+         sodipodi:role="line"
+         id="tspan48159-9-5"
+         style="font-size:22.6674px;fill:#4c4c4c;fill-opacity:0.48627451;stroke:none;stroke-width:0.64254;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         x="37.112289"
+         y="166.21826">ené</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.6674px;line-height:1.25;font-family:sans-serif;fill:#cccccc;fill-opacity:0.72549021;stroke:none;stroke-width:0.64254;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="37.33268"
+       y="184.75185"
+       id="text48693-3-6"
+       inkscape:export-filename="/Users/renecapella/design/logos/nostrokegrayscale500x570.png"
+       inkscape:export-xdpi="119.4359"
+       inkscape:export-ydpi="119.4359"
+       transform="scale(1.0770427,0.92846829)"><tspan
+         sodipodi:role="line"
+         id="tspan48691-8-5"
+         style="font-size:22.6674px;fill:#cccccc;fill-opacity:0.72549021;stroke:none;stroke-width:0.64254;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         x="37.33268"
+         y="184.75185">apella</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:100.259px;line-height:1.25;font-family:sans-serif;opacity:0.740385;fill:#4de8a5;fill-opacity:0.979757;stroke:none;stroke-width:0.334259;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="128.15674"
+       y="272.77069"
+       id="text32855-2-6"
+       transform="scale(1.0686768,0.93573661)"
+       inkscape:export-filename="/Users/renecapella/design/logos/apple-touch-icon.png.png"
+       inkscape:export-xdpi="119.4359"
+       inkscape:export-ydpi="119.4359"><tspan
+         sodipodi:role="line"
+         id="tspan32853-6-7"
+         style="fill:#4de8a5;fill-opacity:0.979757;stroke:none;stroke-width:0.334259;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         x="128.15674"
+         y="272.77069">c</tspan></text>
+    <path
+       id="rect21278-5-5"
+       style="opacity:0.791667;fill:#00afff;fill-opacity:0.615385;stroke:none;stroke-width:0.334106;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 171.13361,202.8828 c -7.26817,0 -13.34642,1.68364 -18.23209,5.05578 v -4.5232 h -10.4502 v 26.17749 27.37067 h 10.4502 v -5.50777 c 0,-33.43719 1e-5,-8.27702 1e-5,-17.93609 v -7.93598 c 0.55741,-4.37419 2.07952,-7.82333 4.57133,-10.34781 3.24467,-3.28207 7.65861,-4.92639 13.24085,-4.92639 3.03533,0 6.14315,0.54974 9.31802,1.64368 3.20981,1.09432 6.31228,2.65874 9.31272,4.69444 h 0.52089 v -9.52811 c -2.68645,-1.18508 -5.64812,-2.18876 -8.89281,-3.00947 -3.20976,-0.81932 -6.48958,-1.22699 -9.83894,-1.22699 z"
+       sodipodi:nodetypes="cccccccssccsccccccc"
+       inkscape:export-filename="/Users/renecapella/design/logos/apple-touch-icon.png.png"
+       inkscape:export-xdpi="119.4359"
+       inkscape:export-ydpi="119.4359" />
+  </g>
+</svg>
